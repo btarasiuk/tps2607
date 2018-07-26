@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd">
+  <talendfile:ContextType xmi:id="_QQGVkJDqEeiNT4UL1YEQ-Q" confirmationNeeded="false" name="Dev">
+    <contextParameter xmi:id="_QQGVkZDqEeiNT4UL1YEQ-Q" comment="" name="CDH_Context_StagingDirectory" prompt="CDH_Context_StagingDirectory?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_QQGVkpDqEeiNT4UL1YEQ-Q" comment="" name="CDH_Context_JobHistory" prompt="CDH_Context_JobHistory?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_QQGVk5DqEeiNT4UL1YEQ-Q" comment="" name="CDH_Context_Principal" prompt="CDH_Context_Principal?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_QQGVlJDqEeiNT4UL1YEQ-Q" comment="" name="CDH_Context_JobHistroyPrin" prompt="CDH_Context_JobHistroyPrin?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_QQGVlZDqEeiNT4UL1YEQ-Q" comment="" name="CDH_Context_NameNodePrin" prompt="CDH_Context_NameNodePrin?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_QQGVlpDqEeiNT4UL1YEQ-Q" comment="" name="CDH_Context_KeyTab" prompt="CDH_Context_KeyTab?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_QQGVl5DqEeiNT4UL1YEQ-Q" comment="" name="CDH_Context_JTOrRMPrin" prompt="CDH_Context_JTOrRMPrin?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_QQGVmJDqEeiNT4UL1YEQ-Q" comment="" name="CDH_Context_ResourceManagerScheduler" prompt="CDH_Context_ResourceManagerScheduler?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_QQGVmZDqEeiNT4UL1YEQ-Q" comment="" name="CDH_Context_ResourceManager" prompt="CDH_Context_ResourceManager?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_QQGVmpDqEeiNT4UL1YEQ-Q" comment="" name="CDH_Context_NameNodeUri" prompt="CDH_Context_NameNodeUri?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_QQGVm5DqEeiNT4UL1YEQ-Q" comment="" name="CDH_Context_mapreduce_job_am_access_disabled" prompt="CDH_Context_mapreduce_job_am_access_disabled?" promptNeeded="false" type="id_String" value=""/>
+  </talendfile:ContextType>
+  <talendfile:ContextType xmi:id="_QQGVnJDqEeiNT4UL1YEQ-Q" confirmationNeeded="false" name="Prod">
+    <contextParameter xmi:id="_QQGVnZDqEeiNT4UL1YEQ-Q" comment="" name="CDH_Context_StagingDirectory" prompt="CDH_Context_StagingDirectory?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_QQGVnpDqEeiNT4UL1YEQ-Q" comment="" name="CDH_Context_JobHistory" prompt="CDH_Context_JobHistory?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_QQGVn5DqEeiNT4UL1YEQ-Q" comment="" name="CDH_Context_Principal" prompt="CDH_Context_Principal?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_QQGVoJDqEeiNT4UL1YEQ-Q" comment="" name="CDH_Context_JobHistroyPrin" prompt="CDH_Context_JobHistroyPrin?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_QQGVoZDqEeiNT4UL1YEQ-Q" comment="" name="CDH_Context_NameNodePrin" prompt="CDH_Context_NameNodePrin?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_QQGVopDqEeiNT4UL1YEQ-Q" comment="" name="CDH_Context_KeyTab" prompt="CDH_Context_KeyTab?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_QQGVo5DqEeiNT4UL1YEQ-Q" comment="" name="CDH_Context_JTOrRMPrin" prompt="CDH_Context_JTOrRMPrin?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_QQGVpJDqEeiNT4UL1YEQ-Q" comment="" name="CDH_Context_ResourceManagerScheduler" prompt="CDH_Context_ResourceManagerScheduler?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_QQGVpZDqEeiNT4UL1YEQ-Q" comment="" name="CDH_Context_ResourceManager" prompt="CDH_Context_ResourceManager?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_QQGVppDqEeiNT4UL1YEQ-Q" comment="" name="CDH_Context_NameNodeUri" prompt="CDH_Context_NameNodeUri?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter xmi:id="_QQGVp5DqEeiNT4UL1YEQ-Q" comment="" name="CDH_Context_mapreduce_job_am_access_disabled" prompt="CDH_Context_mapreduce_job_am_access_disabled?" promptNeeded="false" type="id_String" value=""/>
+  </talendfile:ContextType>
+</xmi:XMI>
